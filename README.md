@@ -1,7 +1,7 @@
 # User-Management-System  
 
-This is a Full-Stack project which enables user to manage details such as Add, Update and Delete entries along with the additional Individual Login 
-functionality via custom Facebook/GitHub credentials authenticator using NextAuth.js.
+This is a Full-Stack project which enables user to manage trivial details such as Create, Save, Update and Delete entries along with the additional 
+Individual Login functionality via custom Facebook/GitHub credentials authenticator using NextAuth.js.
 
 ## Back-End Development  
 
