@@ -12,7 +12,5 @@ functionality using Facebook Developer Authenticator using NextAuth.js.
 | -  | Lombok |
 | -  | Spring Web |
 | -  | MySQL Driver |
-| --- | ----------- |
 | 2.  | Java v11 |
-| --- | ----------- |
 | 3.  | MySQL Workbench |
