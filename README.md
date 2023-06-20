@@ -11,7 +11,7 @@ functionality using custom Facebook/GitHub credentials authenticator using NextA
 | -  | [Spring Data JPA](https://spring.io/projects/spring-data-jpa) |
 | -  | [Project Lombok](https://projectlombok.org/) |
 | -  | [Spring Web Services](https://spring.io/projects/spring-ws) |
-| -  | MySQL Driver |
+| -  | [MySQL Driver](https://www.mysql.com/products/connector/) |
 |    |      |
 | 2.  | [Java v11](https://www.java.com/en/download/) |
 |    |      |
