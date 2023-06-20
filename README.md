@@ -7,24 +7,24 @@ functionality using custom Facebook/GitHub credentials authenticator using NextA
 
 | No. | Tools/Framework/Language |
 | --- | --------------- |
-| 1. | Spring Framework | 
-| -  | Spring Data JPA |
-| -  | Lombok |
-| -  | Spring Web |
+| 1. | [**Spring Framework**](https://spring.io/projects/spring-framework) | 
+| -  | [Spring Data JPA](https://spring.io/projects/spring-data-jpa) |
+| -  | [Project Lombok](https://projectlombok.org/) |
+| -  | [Spring Web Services](https://spring.io/projects/spring-ws) |
 | -  | MySQL Driver |
 |    |      |
-| 2.  | Java v11 |
+| 2.  | [Java v11](https://www.java.com/en/download/) |
 |    |      |
-| 3.  | MySQL Workbench |
+| 3.  | [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) |
 
 ## Front-End Development
 | No. | Tools/Framework/Language |
 | --- | --------------- |
-| 1. | React.js | 
-| 2. | Next.js |
-| 3. | NextAuth.js |
-| 4. | Tailwind CSS |
-| 5. | Post CSS |  
+| 1. | [React.js](https://react.dev/) | 
+| 2. | [Next.js](https://nextjs.org/) |
+| 3. | [NextAuth.js](https://next-auth.js.org/) |
+| 4. | [Tailwind CSS](https://tailwindcss.com/) |
+| 5. | [Post CSS](https://postcss.org/) |  
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
