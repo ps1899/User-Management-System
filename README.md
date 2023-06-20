@@ -3,7 +3,7 @@
 This is a Full-Stack project which enables user to manage trivial details such as Create, Save, Update and Delete entries along with the additional 
 Individual Login functionality via custom Facebook/GitHub credentials authenticator using NextAuth.js.
 
-## Back-End Development  
+## *Back-End Development*  
 
 | No. | Tools/Framework/Language |
 | --- | --------------- |
@@ -17,7 +17,7 @@ Individual Login functionality via custom Facebook/GitHub credentials authentica
 |    |      |
 | 3.  | [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) |
 
-## Front-End Development
+## *Front-End Development*
 | No. | Tools/Framework/Language |
 | --- | --------------- |
 | 1. | [React.js](https://react.dev/) | 
